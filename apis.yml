@@ -1,5 +1,5 @@
-aid: cross-river-bank
-url: https://raw.githubusercontent.com/api-evangelist/cross-river-bank/refs/heads/main/apis.yml
+aid: crossriver
+url: https://raw.githubusercontent.com/api-evangelist/crossriver/refs/heads/main/apis.yml
 name: Cross River Bank
 kind: company
 description: >-
@@ -66,7 +66,7 @@ created: '2026-05-23'
 modified: '2026-05-23'
 specificationVersion: '0.23'
 apis:
-  - aid: cross-river-bank:cos
+  - aid: crossriver:cos
     name: Cross River Operating System (COS)
     description: >-
       Proprietary API-driven banking core that underpins all Cross River
@@ -83,7 +83,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.crossriver.com
-  - aid: cross-river-bank:accounts-api
+  - aid: crossriver:accounts-api
     name: Cross River Accounts API
     description: >-
       REST API for opening and managing FDIC-insured deposit accounts
@@ -103,7 +103,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.crossriver.com
-  - aid: cross-river-bank:payments-api
+  - aid: crossriver:payments-api
     name: Cross River Payments API
     description: >-
       Unified payments API covering ACH and Same-Day ACH, FedNow and RTP
@@ -120,7 +120,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.crossriver.com
-  - aid: cross-river-bank:card-payments-api
+  - aid: crossriver:card-payments-api
     name: Cross River Card Payments API
     description: >-
       Card issuing and processing API spanning Visa, Mastercard, and regional
@@ -137,7 +137,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.crossriver.com
-  - aid: cross-river-bank:lending-api
+  - aid: crossriver:lending-api
     name: Cross River Lending / Loan Funding API
     description: >-
       Marketplace-lending and loan-origination API used by fintech lending
@@ -153,7 +153,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.crossriver.com
-  - aid: cross-river-bank:stablecoin
+  - aid: crossriver:stablecoin
     name: Cross River Stablecoin Payments
     description: >-
       Money-movement API supporting stablecoin pay-ins and pay-outs across
@@ -174,7 +174,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.crossriver.com
-  - aid: cross-river-bank:webhooks
+  - aid: crossriver:webhooks
     name: Cross River Webhooks
     description: >-
       Outbound webhook events covering account, payment, card, and lending
@@ -191,7 +191,7 @@ apis:
     properties:
       - type: Documentation
         url: https://docs.crossriver.com
-  - aid: cross-river-bank:postman
+  - aid: crossriver:postman
     name: Cross River Postman Collection
     description: >-
       Postman collection of the COS APIs distributed to onboarded partners to
