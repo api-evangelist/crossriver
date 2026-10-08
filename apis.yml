@@ -206,6 +206,12 @@ apis:
       - type: Documentation
         url: https://docs.crossriver.com
 common:
+  - type: Plans
+    url: plans/cross-river-bank-plans-pricing.yml
+  - type: RateLimits
+    url: rate-limits/cross-river-bank-rate-limits.yml
+  - type: FinOps
+    url: finops/cross-river-bank-finops.yml
   - type: Support
     url: https://www.crossriver.com/support
   - type: DeveloperPortal

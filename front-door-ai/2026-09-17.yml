@@ -1,21 +1,25 @@
-# Front Door AI Index — cross-river-bank — 2026-09-17
+# Front Door AI Index — crossriver — 2026-09-17
 # AI vocabulary counted on the provider's root page. Generated; do not edit.
 # `score` is null unless ownership is `own` — see front_door_ai.py.
 front_door_ai:
-  slug: cross-river-bank
+  slug: crossriver
   lexicon_version: '1.0'
   probed_at: '2026-09-17'
   host: www.crossriver.com
   final_host: www.crossriver.com
-  ownership: unresolved
-  owner: null
+  ownership: own
+  owner: crossriver
   shares_host_with:
   - crb
+  - cross-river-bank
   inherited_from: null
+  alias_of: null
   verdict: scored
-  score: null
+  score: 6
+  band: 4
+  band_label: moderate
   host_score: 6
-  density: null
+  density: 4.21
   words: 1424
   tiers:
     agentic: 4
