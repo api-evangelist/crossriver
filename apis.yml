@@ -163,7 +163,7 @@ apis:
     baseURL: gated-partner-access
     tags:
       - Stablecoins
-      - Crypto
+      - Cryptocurrency
       - Pay-In
       - Payout
     tags_raw:
